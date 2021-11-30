@@ -41,7 +41,7 @@ requirements.txt installed including
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/):
 
 ```bash
-$ git clone https://github.com/ultralytics/yolov5
+$ git clone https://github.com/NaumanHSA/Real-Time-Traffic-Monitoring-System-using-YOLOv5.git
 $ cd yolov5
 $ pip install -r requirements.txt
 ```
